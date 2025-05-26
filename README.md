@@ -72,7 +72,7 @@ This project is a smart **IoT-based solution** to automate water tank monitoring
 
 ---
 
-## 📌 Credits
+## Credits
 
 Developed by:
 - Chirag Chouhan  
